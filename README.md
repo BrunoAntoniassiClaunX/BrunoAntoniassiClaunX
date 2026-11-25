@@ -1,98 +1,76 @@
 # Bruno Antoniassi
 
-**AI Automation Specialist · Founder @ [ClaunX](https://claunx.com)**
+**AI Automation Engineer | Applied AI & Software Engineering**
 
-I build AI agents that replace manual workflows and move revenue.  
-Consulting @ Leapmotor Santo André (Grupo Toriba) · Open to global AI/automation roles.
+I build reliable AI systems, intelligent workflows, and API integrations that solve real operational problems.
 
----
+Based in São Paulo, Brazil. Open to remote and international opportunities.
 
-## 🤖 What I Build
+## Technical Skills
 
-Production-grade conversational AI agents and end-to-end automation pipelines for businesses that can't afford to waste time on manual processes.
+| Area | Technologies |
+|---|---|
+| Languages | Python, JavaScript, Node.js |
+| Applied AI | LLM APIs, AI Agents, RAG, Prompt Engineering |
+| Cloud | AWS Lambda, Textract, S3, DynamoDB, CloudWatch |
+| Automation | n8n, Make, Webhooks, REST APIs |
+| Data & Memory | Redis, Pinecone, Google Sheets |
+| Engineering | Git, Automated Testing, Idempotency, Debugging |
+| Development Tools | Claude Code, Cursor |
 
-- **WhatsApp AI Agents** — lead qualification, product Q&A, CRM handoff, sub-30s response time
-- **RAG Pipelines** — vector search over internal documents, catalogs, and knowledge bases
-- **Voice AI Agents** — telephony + STT + LLM + TTS, fully orchestrated
-- **Process Automation** — replacing repetitive human workflows with intelligent systems
+## Selected Projects
 
----
+### [Workflow Platform & Data Migration](https://github.com/BrunoOS-hub/Portifolio/blob/main/cases/workflow-platform.md)
 
-## 🛠️ Stack
+- Internal workflow platform developed with JavaScript and Node.js.
+- Controlled Jira migration, with over 1,000 tasks covered by integrity verification.
+- Optimistic concurrency, duplicate prevention, automated testing, and frontend performance improvements.
 
-```
-Orchestration   →   n8n Cloud
-LLM             →   OpenAI GPT-4o / GPT-4o-mini
-Memory          →   Upstash Redis
-Vector Search   →   Pinecone
-WhatsApp        →   Whapi (WhatsApp Business API)
-Voice           →   Vapi.ai · Deepgram STT · ElevenLabs TTS
-Chatbot UI      →   Typebot
-```
+**Status:** Deployed to production.
 
----
+### [Serverless Invoice Validation](https://github.com/BrunoOS-hub/Portifolio/blob/main/cases/invoice-validation.md)
 
-## 🚀 Featured Projects
+- Intelligent document processing using Python and AWS.
+- OCR extraction, deterministic business validation, and downstream API integrations.
+- Idempotency, persistent processing state, duplicate detection, and audit trails.
 
-### 🔵 [Agente Lia — WhatsApp AI Agent](https://github.com/BrunoAntoniassiClaunX/agente-lia)
-> Production AI agent for Leapmotor Santo André (EV dealership, Grupo Toriba)
+**Status:** Validated in staging with real documents.
 
-- Handles inbound leads via WhatsApp with natural language understanding
-- RAG over full vehicle catalog — answers specs, pricing, and availability questions
-- Multi-turn session memory via Redis
-- Automated CRM handoff to Syonet + human escalation flow
-- Proactive outreach with interactive WhatsApp buttons
-- **Result:** first response time reduced from hours → under 30 seconds
+### [Agente Lia | Conversational AI](https://github.com/BrunoAntoniassiClaunX/agente-lia-)
 
----
+- WhatsApp AI agent for automotive sales.
+- RAG-based product knowledge and multi-turn conversational memory.
+- CRM integration, lead qualification, and human escalation.
 
-### 🏠 [AI Lead Qualification Agent — Real Estate](https://github.com/BrunoAntoniassiClaunX/real-estate-ai-agent)
-> Automated lead qualification for real estate brokers
+**Status:** Previously deployed in production.
 
-- Property matching via RAG over listings database
-- Appointment scheduling + WhatsApp follow-up sequences
-- Zero human intervention on initial qualification stage
+### [Sales Workflow Monitoring](https://github.com/BrunoOS-hub/Portifolio/blob/main/cases/sales-workflow-monitor.md)
 
----
+- Browser-assisted integration with n8n, Redis, and Telegram.
+- Automated operational checks every 15 minutes.
+- State comparison, targeted notifications, and session monitoring.
 
-### ⚖️ [Legal Research Assistant](https://github.com/BrunoAntoniassiClaunX/legal-ai-assistant)
-> AI agent for Brazilian law firms
+**Status:** Used daily by a sales team during the engagement.
 
-- Case document ingestion and clause extraction
-- Precedent search via vector similarity (Pinecone)
-- Structured legal report generation in DOCX format
+### [Multimodal Data Capture](https://github.com/BrunoOS-hub/Portifolio/blob/main/cases/multimodal-cost-capture.md)
 
----
+- Voice, image, and text processing with Whisper and GPT-4o.
+- Structured business data extraction and Google Sheets integration.
 
-## 📊 Currently Building
+**Status:** Proof of concept.
 
-- 🔊 Voice AI agent layer (Vapi + Deepgram + ElevenLabs) integrated into n8n
-- 🤝 Multi-agent systems with LangGraph / CrewAI
-- 🌍 Expanding ClaunX to international markets (PT · MX · CO)
+## Engineering Approach
 
----
+- Understand the operational problem before choosing the technology.
+- Separate probabilistic AI outputs from deterministic business decisions.
+- Build the smallest reliable solution.
+- Validate through tests, logs, and real use cases.
+- Document decisions, limitations, and failure modes.
 
-## 🌐 Connect
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunoantoniassi)
-[![ClaunX](https://img.shields.io/badge/ClaunX-0A0A0F?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiMwQTBBMEYiLz48L3N2Zz4=&logoColor=white)](https://claunx.com)
+- [LinkedIn](https://linkedin.com/in/brunoantoniassi)
+- [Technical Portfolio](https://github.com/BrunoOS-hub/Portifolio)
+- [Email](mailto:br.brunoantoniassi@gmail.com)
 
-📧 br.brunoantoniassi@gmail.com · 🇧🇷 São Paulo, Brazil · Remote-ready
-
----
-
-*"Mediano não é uma opção."*
-<!--
-**BrunoAntoniassiClaunX/BrunoAntoniassiClaunX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to AI Engineering, AI Automation, Integration Engineering, and Applied AI opportunities.
