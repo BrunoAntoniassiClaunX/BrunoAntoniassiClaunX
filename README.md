@@ -20,15 +20,15 @@ Based in São Paulo, Brazil. Open to remote and international opportunities.
 
 ## Selected Projects
 
-### [Workflow Platform & Data Migration](https://github.com/BrunoOS-hub/Portifolio/blob/main/cases/workflow-platform.md)
+### [Workflow Platform & Data Migration](https://github.com/BrunoAntoniassiClaunX/agente-lia-/blob/main/cases/workflow-platform.md)
 
-- Internal workflow platform developed with JavaScript and Node.js.
+- Extended an existing internal workflow platform using JavaScript and Node.js.
 - Controlled Jira migration, with over 1,000 tasks covered by integrity verification.
 - Optimistic concurrency, duplicate prevention, automated testing, and frontend performance improvements.
 
 **Status:** Deployed to production.
 
-### [Serverless Invoice Validation](https://github.com/BrunoOS-hub/Portifolio/blob/main/cases/invoice-validation.md)
+### [Serverless Invoice Validation](https://github.com/BrunoAntoniassiClaunX/agente-lia-/blob/main/cases/invoice-validation.md)
 
 - Intelligent document processing using Python and AWS.
 - OCR extraction, deterministic business validation, and downstream API integrations.
@@ -36,7 +36,7 @@ Based in São Paulo, Brazil. Open to remote and international opportunities.
 
 **Status:** Validated in staging with real documents.
 
-### [Agente Lia | Conversational AI](https://github.com/BrunoAntoniassiClaunX/agente-lia-)
+### [Agente Lia | Conversational AI](https://github.com/BrunoAntoniassiClaunX/agente-lia-/blob/main/cases/conversational-ai.md)
 
 - WhatsApp AI agent for automotive sales.
 - RAG-based product knowledge and multi-turn conversational memory.
@@ -44,7 +44,7 @@ Based in São Paulo, Brazil. Open to remote and international opportunities.
 
 **Status:** Previously deployed in production.
 
-### [Sales Workflow Monitoring](https://github.com/BrunoOS-hub/Portifolio/blob/main/cases/sales-workflow-monitor.md)
+### [Sales Workflow Monitoring](https://github.com/BrunoAntoniassiClaunX/agente-lia-/blob/main/cases/sales-workflow-monitor.md)
 
 - Browser-assisted integration with n8n, Redis, and Telegram.
 - Automated operational checks every 15 minutes.
@@ -52,7 +52,7 @@ Based in São Paulo, Brazil. Open to remote and international opportunities.
 
 **Status:** Used daily by a sales team during the engagement.
 
-### [Multimodal Data Capture](https://github.com/BrunoOS-hub/Portifolio/blob/main/cases/multimodal-cost-capture.md)
+### [Multimodal Data Capture](https://github.com/BrunoAntoniassiClaunX/agente-lia-/blob/main/cases/multimodal-cost-capture.md)
 
 - Voice, image, and text processing with Whisper and GPT-4o.
 - Structured business data extraction and Google Sheets integration.
@@ -70,7 +70,7 @@ Based in São Paulo, Brazil. Open to remote and international opportunities.
 ## Connect
 
 - [LinkedIn](https://linkedin.com/in/brunoantoniassi)
-- [Technical Portfolio](https://github.com/BrunoOS-hub/Portifolio)
+- [Technical Portfolio](https://github.com/BrunoAntoniassiClaunX/agente-lia-)
 - [Email](mailto:br.brunoantoniassi@gmail.com)
 
 Open to AI Engineering, AI Automation, Integration Engineering, and Applied AI opportunities.
