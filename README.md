@@ -70,7 +70,7 @@ Based in São Paulo, Brazil. Open to remote and international opportunities.
 ## Connect
 
 - [LinkedIn](https://linkedin.com/in/brunoantoniassi)
-- [Technical Portfolio](https://github.com/BrunoAntoniassiClaunX/agente-lia-)
-- [Email](mailto:br.brunoantoniassi@gmail.com)
+- [Technical Portfolio](https://github.com/BrunoAntoniassiClaunX/portfolio)
+- [Email](mailto: br.brunoantoniassi@gmail.com)
 
 Open to AI Engineering, AI Automation, Integration Engineering, and Applied AI opportunities.
